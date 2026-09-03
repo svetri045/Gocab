@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "506282016615",
+    "project_id": "fir-project-8f50b",
+    "storage_bucket": "fir-project-8f50b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506282016615:android:c057f588434e0fb4c6f9c2",
+        "android_client_info": {
+          "package_name": "com.example.taxi_admin_panel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU0Jm4FxYhczGm0EbRpSJlnkOHKyypMOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506282016615:android:e96b02583e0ad089c6f9c2",
+        "android_client_info": {
+          "package_name": "com.example.taxi_driver_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU0Jm4FxYhczGm0EbRpSJlnkOHKyypMOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506282016615:android:a4b53753e260a99ac6f9c2",
+        "android_client_info": {
+          "package_name": "com.example.taxi_user_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU0Jm4FxYhczGm0EbRpSJlnkOHKyypMOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
